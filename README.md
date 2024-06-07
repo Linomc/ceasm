@@ -3,7 +3,7 @@
 
 ## Repositório criado para compartilhamento de materiais para CEASM Pré Vestibular Popular (CPV)
 
-### Como Educador da Disciplina de Matemática, buscarei integrar sempre que possível os temas cobrados no ENEM¹ e UERJ² com pensamento computacional e avaliação crítica usando a computação como ferramenta para o desenvolvimento crítico 
+### Como Educador da Disciplina de Matemática e Educação Financeira, buscarei integrar sempre que possível os temas cobrados no ENEM¹ e UERJ² com pensamento computacional e avaliação crítica usando a computação como ferramenta para o desenvolvimento crítico 
 
 * ¹ ENEM - Exame Nacional do Ensino Médio
 * ² UERJ - Universidade do Estado do Rio de Janeiro 
